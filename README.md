@@ -28,7 +28,7 @@ A reproducible machine-learning pipeline for detecting Benign traffic, BOLA, BFL
 
 ## Technical Expertise
 
-- **Languages:** Go, Python, SQL, X++, Dart
+- **Languages:** Go, Python, SQL, X++, PHP, JavaScript
 - **Backend Development:** REST APIs, concurrent programming, database integration
 - **Cybersecurity:** API security, OWASP vulnerabilities, HTTP threat detection
 - **Machine Learning:** LightGBM, feature engineering, model evaluation
